@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WritingTasksApp</string>
+    <string name="home_title">WritingTasksApp</string>
+    <string name="create_task_title">Create New Task</string>
+    <string name="view_edit_task_title">View &amp; Edit Task</string>
+    <string name="btn_save">Save Task</string>
+    <string name="btn_update">Update Task</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="label_heading">Task Heading</string>
+    <string name="label_description">Task Description</string>
+    <string name="label_email">E-mail ID</string>
+    <string name="label_priority">Priority Level</string>
+    <string name="label_date_created">Date Created</string>
+    <string name="label_due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="no_tasks_message">No tasks found. Tap + to create your first task!</string>
+    <string name="error_heading_required">Task heading is required.</string>
+    <string name="error_email_invalid">Please enter a valid e-mail address.</string>
+    <string name="error_due_date_required">Please select a due date.</string>
+    <string name="task_saved_success">Task saved successfully!</string>
+    <string name="task_updated_success">Task updated successfully!</string>
+    <string name="task_deleted_success">Task deleted.</string>
+</resources>

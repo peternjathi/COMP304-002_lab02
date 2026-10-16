@@ -1,0 +1,6 @@
+{
+  "name": "WritingTasksApp",
+  "description": "A comprehensive task-writing Android application built with Kotlin and Jetpack Compose featuring multiple activities, MVVM architecture, Task data class, date picker composables, priority dropdowns, and lifecycle management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
